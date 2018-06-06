@@ -9,4 +9,4 @@
 * Keep it portable.
 
 ## See also
-### setup.sh
+* setup.sh
